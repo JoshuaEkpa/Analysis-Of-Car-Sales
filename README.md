@@ -68,7 +68,11 @@ ________________________________________________________________________________
 Manufacturer-Car-Brand-Sales Percentage
 <img width="927" height="544" alt="Manufacturer-Car-Brand-Sales Percentage Screenshot 2025-12-20 155346" src="https://github.com/user-attachments/assets/44b73d95-ddcc-49e4-8b48-27dee1b50492" />
 
+_____________________________________________________________________________________________________________________________
 
+<img width="595" height="417" alt="Screenshot 2025-12-20 193545" src="https://github.com/user-attachments/assets/af7086ab-bcd7-42c1-9eb7-c9ba869e5469" />
+
+_____________________________________________________________________________________________________________________________ 
 
 👤 Author
 Joshua Ekpa
