@@ -3,46 +3,77 @@
 📌 Project Overview
 This project analyzes car sales performance across multiple automobile manufacturers using Microsoft Excel and Power BI. The dashboard highlights top-performing, above-average, and underperforming brands, providing insights into sales trends and future growth to support data-driven decision-making.
 
-🎯 Objectives
-Compare sales performance by manufacturer
-Identify maximum, above-average, and below-minimum brands
-Visualize trends with interactive dashboards
-Forecast future car sales
-Generate actionable business recommendations
+________________________________________________________________________________________________________________________________
+
+🎯 Business Objectives
+1. Compare sales performance by manufacturer
+2. Identify maximum, above-average, and below-minimum brands
+3. Visualize trends with interactive dashboards
+4. Forecast future car sales
+5. Generate actionable business recommendations
+
+__________________________________________________________________________________________________________________________________
 
 📊 Dataset
-Manufacturers: Ford, Dodge, Toyota, Chevrolet, Mercedes-Benz, BMW, Audi, Acura, Buick
-Metrics: Quarterly sales (units sold)
-Source: Simulated dealership/manufacturer sales data (analytical use)
+1. Manufacturers: Ford, Dodge, Toyota, Chevrolet, Mercedes-Benz, BMW, Audi, Acura, Buick
+2. Metrics: Quarterly sales (units sold)
+3. Source: Simulated dealership/manufacturer sales data (analytical use)
+
+______________________________________________________________________________________________________________________________
 
 🛠 Tools & Skills
 Excel: Data cleaning, PivotTables, descriptive statistics
 Power BI: Data modeling, DAX, interactive visuals, forecasting
 Analytics: EDA, trend analysis, KPI tracking
 
+___________________________________________________________________________________________________________________________
+
 📈Key Insights
-Ford and Dodge recorded the highest sales (market leaders).
-Toyota, Chevrolet, and Mercedes-Benz performed above average.
-BMW, Audi, Acura, and Buick showed below-minimum sales.
-Strong brand positioning and promotions correlate with higher sales.
+1. Ford and Dodge recorded the highest sales (market leaders).
+2. Toyota, Chevrolet, and Mercedes-Benz performed above average.
+3. BMW, Audi, Acura, and Buick showed below-minimum sales.
+
+Insight:Strong brand positioning and promotions correlate with higher sales.
+
+_________________________________________________________________________________________________________________________ 
 
 🔮 Forecast
-Leaders projected to grow 12–15%
-Above-average brands expected to grow 6–8%
-Underperformers show limited growth without strategic changes
+1. Leaders projected to grow 12–15%
+2. Above-average brands expected to grow 6–8%
+3. Underperformers show limited growth without strategic changes
+
+_________________________________________________________________________________________________________________________ 
 
 📌 Recommendations
-Expand inventory and marketing for top performers
-Use targeted promotions to lift above-average brands
-Reposition underperforming brands through pricing and product strategy
-Repository Structure 
+1. Expand inventory and marketing for top performers
+2. Use targeted promotions to lift above-average brands
+3. Reposition underperforming brands through pricing and product strategy
+4. Repository Structure 
 
-📎 Screenshots
-(Insert screenshots of your Power BI dashboard here)
+______________________________________________________________________________________________________________________________
+
+DASHBOARD  Screenshots
+Car Sales Dashboard 
+<img width="1452" height="563" alt="CAR SALES ANALYSIS (2008 - 2012)Screenshot 2025-11-29 125338" src="https://github.com/user-attachments/assets/f5d55b5d-b025-46d8-b995-ae60c27f6eea" />
+
+______________________________________________________________________________________________________________________________
+Screenshot For Manufacturer Car Brand 
+<img width="815" height="523" alt="TOP 10 Manufacturer -Car- Brand Screenshot 2025-12-20 154112" src="https://github.com/user-attachments/assets/420ddbdc-90fd-4d1f-92c5-561ce6d659c1" />
+
+_____________________________________________________________________________________________________________________________ 
+Manufacturer Car-Brand Trend 
+<img width="823" height="481" alt="Manufacturer -Car-Brand Trend Screenshot 2025-12-20 154924" src="https://github.com/user-attachments/assets/b4098bc6-e6e3-4f31-85bd-2bcc8417d848" />
+
+___________________________________________________________________________________________________________________________ 
+Manufacturer-Car-Brand-Sales Percentage
+<img width="927" height="544" alt="Manufacturer-Car-Brand-Sales Percentage Screenshot 2025-12-20 155346" src="https://github.com/user-attachments/assets/44b73d95-ddcc-49e4-8b48-27dee1b50492" />
+
+
+
 👤 Author
 Joshua Ekpa
 Aspiring Data Analyst | Excel | Power BI | Business Intelligence
 📬 Contact
-📧 Email: (add your email)
-🔗 LinkedIn: (add your LinkedIn link)
+📧 Email: joshuaekpa5@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/joshua-ekpa-302223327
  
