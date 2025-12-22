@@ -1,6 +1,7 @@
 # Analysis-Of-Car-Sales
 
-📌 Project Overview
+📌 Project Overview 
+
 This project analyzes car sales performance across multiple automobile manufacturers using Microsoft Excel and Power BI. The dashboard highlights top-performing, above-average, and underperforming brands, providing insights into sales trends and future growth to support data-driven decision-making.
 
 ________________________________________________________________________________________________________________________________
@@ -21,10 +22,12 @@ ________________________________________________________________________________
 
 ______________________________________________________________________________________________________________________________
 
-🛠 Tools & Skills
-Excel: Data cleaning, PivotTables, descriptive statistics
-Power BI: Data modeling, DAX, interactive visuals, forecasting
-Analytics: EDA, trend analysis, KPI tracking
+🛠 Tools & Skills 
+
+1. Excel: Data cleaning, PivotTables, descriptive statistics
+2. Power BI: Data modeling, DAX, interactive visuals, forecasting
+3. Analytics: EDA, trend analysis, KPI tracking
+4. Data Visualization 
 
 ___________________________________________________________________________________________________________________________
 
