@@ -1,5 +1,8 @@
 # Analysis-Of-Car-Sales
 
+<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/561bcb11-2348-4478-9b5b-2a7382baf995" />
+
+_________________________________________________________________________________________________________________________________
 📌 Project Overview 
 
 This project analyzes car sales performance across multiple automobile manufacturers using Microsoft Excel and Power BI. The dashboard highlights top-performing, above-average, and underperforming brands, providing insights into sales trends and future growth to support data-driven decision-making.
