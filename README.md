@@ -26,7 +26,6 @@ ________________________________________________________________________________
 ______________________________________________________________________________________________________________________________
 
 🛠 Tools & Skills 
-
 1. Excel: Data cleaning, PivotTables, descriptive statistics
 2. Power BI: Data modeling, DAX, interactive visuals, forecasting
 3. Analytics: EDA, trend analysis, KPI tracking
