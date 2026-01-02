@@ -82,7 +82,7 @@ Exploring The World Of DATA to Deliver Actionable and Impactful Insights
 _____________________________________________________________________________________________________________________________ 
 
 👤 Author
-Joshua Ekpa
+Joshua Ekpah
 Data Analyst | Excel | Power BI | SQL | Business Intelligence
 📬 Contact: +234 816 778 7222
 📧 Email: joshuaekpa5@gmail.com
