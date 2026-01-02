@@ -77,11 +77,32 @@ Manufacturer-Car-Brand-Sales Percentage
 _____________________________________________________________________________________________________________________________  
 Project Presentation
 
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/16aefebd-fbfd-4d59-a22b-5b47b6040814" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/16aefebd-fbfd-4d59-a22b-5b47b6040814" /> 
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/c026364d-a5c9-42eb-bc2c-ea71dcb2c150" /> 
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/20cb14fa-9e57-45ad-8665-e882f7e8ed48" /> 
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/b559229e-caad-4286-9b6c-7bd833effe92" />
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/2df9204c-d2a7-4ef6-ab00-e98e3d2c40eb" />
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/904734fa-a703-49a0-98e5-63ecba934d64" />
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/0f99eed7-eb5e-46d9-b6c4-64a776625caa" />
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/a19ba9e9-a6a9-4f90-9b50-b6d5380626d5" />
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/baa7f3b2-27e5-4717-a805-c1494945ccdb" />
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/5628c0f8-bb66-48d9-8c8c-730e3694807f" />
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/3d04da51-f06f-4c3b-9a89-e204886134c3" />
 
 ______________________________________________________________________________________________________________________________________ 
 
-Let's Dive Into The World Of DATA
+Exploring The World Of DATA to Deliver Actionable and Impactful Insights 
+
 <img width="595" height="417" alt="Screenshot 2025-12-20 193545" src="https://github.com/user-attachments/assets/af7086ab-bcd7-42c1-9eb7-c9ba869e5469" />
 
 _____________________________________________________________________________________________________________________________ 
