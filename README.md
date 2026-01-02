@@ -74,7 +74,13 @@ ________________________________________________________________________________
 Manufacturer-Car-Brand-Sales Percentage
 <img width="927" height="544" alt="Manufacturer-Car-Brand-Sales Percentage Screenshot 2025-12-20 155346" src="https://github.com/user-attachments/assets/44b73d95-ddcc-49e4-8b48-27dee1b50492" />
 
-_____________________________________________________________________________________________________________________________ 
+_____________________________________________________________________________________________________________________________  
+Project Presentation
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/16aefebd-fbfd-4d59-a22b-5b47b6040814" />
+
+______________________________________________________________________________________________________________________________________ 
+
 Let's Dive Into The World Of DATA
 <img width="595" height="417" alt="Screenshot 2025-12-20 193545" src="https://github.com/user-attachments/assets/af7086ab-bcd7-42c1-9eb7-c9ba869e5469" />
 
