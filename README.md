@@ -84,7 +84,7 @@ ________________________________________________________________________________
 👤 Author
 Joshua Ekpah
 Data Analyst | Excel | Power BI | SQL | Business Intelligence
-📬 Contact: +234 816 778 7222
+
 📧 Email: joshuaekpa5@gmail.com
 🔗 LinkedIn: https://www.linkedin.com/in/joshua-ekpa-302223327
 🔗 Wix APP: https://joshuaekpa5.wixsite.com/joshuaekpa
